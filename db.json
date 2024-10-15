@@ -1,0 +1,97 @@
+{
+  "videos": [
+    {
+      "caption": "Birds of a Feather",
+      "imageURL": "https://assets-a1.kompasiana.com/items/album/2024/07/03/birds-of-a-feather-billie-eilish-6684d436c925c4497d0a0cc3.jpeg",
+      "embedLink": "https://www.youtube.com/embed/V9PVRfjEBTI",
+      "id": 1
+    },
+    {
+      "caption": "Enna Sona",
+      "imageURL": "https://i.scdn.co/image/ab67616d0000b273ca99ff80246fc0fb4d670126",
+      "embedLink": "https://www.youtube.com/embed/mrdRHsIkK_c",
+      "id": 2
+    },
+    {
+      "caption": "Pee Loon",
+      "imageURL": "https://i1.sndcdn.com/artworks-4tK4FExyyo6X8uAz-azPJIw-t500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/D8XFTglfSMg",
+      "id": 3
+    },
+    {
+      "caption": "Two Moons",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGwESDLvet5iPm7tIsD5QnLuf3gWI_taUSg&s",
+      "embedLink": "https://www.youtube.com/embed/HHezQOZ_2xk",
+      "id": 4
+    }
+  ],
+  "history": [
+    {
+      "caption": "Birds of a Feather",
+      "url": "https://www.youtube.com/embed/V9PVRfjEBTI",
+      "time": "08/10/2024, 13:06:27",
+      "id": 1
+    },
+    {
+      "caption": "Birds of a Feather",
+      "url": "https://www.youtube.com/embed/V9PVRfjEBTI",
+      "time": "09/10/2024, 12:07:41",
+      "id": 2
+    },
+    {
+      "caption": "Enna Sona",
+      "url": "https://www.youtube.com/embed/mrdRHsIkK_c",
+      "time": "09/10/2024, 12:07:44",
+      "id": 3
+    },
+    {
+      "caption": "Pee Loon",
+      "url": "https://www.youtube.com/embed/D8XFTglfSMg",
+      "time": "09/10/2024, 12:07:46",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "categoryname": "Malayalam Songs",
+      "allvideos": [],
+      "id": 1
+    },
+    {
+      "categoryname": "Hindi Songs",
+      "allvideos": [
+        {
+          "caption": "Pee Loon",
+          "imageURL": "https://i1.sndcdn.com/artworks-4tK4FExyyo6X8uAz-azPJIw-t500x500.jpg",
+          "embedLink": "https://www.youtube.com/embed/D8XFTglfSMg",
+          "id": 3
+        },
+        {
+          "caption": "Enna Sona",
+          "imageURL": "https://i.scdn.co/image/ab67616d0000b273ca99ff80246fc0fb4d670126",
+          "embedLink": "https://www.youtube.com/embed/mrdRHsIkK_c",
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryname": "English Songs",
+      "allvideos": [
+        {
+          "caption": "Two Moons",
+          "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGwESDLvet5iPm7tIsD5QnLuf3gWI_taUSg&s",
+          "embedLink": "https://www.youtube.com/embed/HHezQOZ_2xk",
+          "id": 4
+        },
+        {
+          "caption": "Birds of a Feather",
+          "imageURL": "https://assets-a1.kompasiana.com/items/album/2024/07/03/birds-of-a-feather-billie-eilish-6684d436c925c4497d0a0cc3.jpeg",
+          "embedLink": "https://www.youtube.com/embed/V9PVRfjEBTI",
+          "id": 1
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
